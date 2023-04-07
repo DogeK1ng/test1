@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dogek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dogek\\.nuget\\packages"
+    ]
+  }
+}

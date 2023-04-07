@@ -1,0 +1,12 @@
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\dogek\OneDrive\Рабочий стол\тестирование\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
